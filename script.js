@@ -11,6 +11,6 @@ function trackButtonClick(buttonName) {
 }
 
 // Adding event listeners for each button with unique event names
-document.getElementById('button1').addEventListener('click', () => trackButtonClick('button1_clicked'));
-document.getElementById('button2').addEventListener('click', () => trackButtonClick('button2_clicked'));
-document.getElementById('button3').addEventListener('click', () => trackButtonClick('button3_clicked'));
+//document.getElementById('button1').addEventListener('click', () => trackButtonClick('button1_clicked'));
+//document.getElementById('button2').addEventListener('click', () => trackButtonClick('button2_clicked'));
+//document.getElementById('button3').addEventListener('click', () => trackButtonClick('button3_clicked'));
